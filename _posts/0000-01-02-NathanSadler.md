@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Nathan Sadler's slide!"
 ---
 Your text
 Congrats, you passed the vibe check!
