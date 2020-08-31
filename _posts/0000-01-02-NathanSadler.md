@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Nathan Sadler's slide!"
 ---
-Your text
+Performing Vibe Check...\n
 Congrats, you passed the vibe check!
